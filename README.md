@@ -1,4 +1,4 @@
-# Face Recognition System with OpenCV
+# **Documentation Face Recognition System with OpenCV**
 
 ## Project Description
 This project aims to develop a face recognition system using LBPH (Local Binary Patterns Histograms) based face recognition algorithm and Haar Cascade Classifier for face detection. The project consists of three main parts: face dataset collection, training the face recognition model, and real-time face recognition.
